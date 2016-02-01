@@ -5,8 +5,9 @@ public abstract class CryomoduleType
 	
 	public abstract void importRawData();
 	
+	public abstract void conditionData();
+	
 	public abstract void exportTravelerData();
 	
 	public abstract void prepareChartData();
-	
 }

@@ -10,9 +10,15 @@ public class C100 extends CryomoduleType
 	@Override
 	public void importRawData()
 	{
-		
+		// TODO Auto-generated method stub
 	}
-
+	
+	@Override
+	public void conditionData()
+	{
+		// TODO Auto-generated method stub
+	}
+	
 	@Override
 	public void exportTravelerData()
 	{
